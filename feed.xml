@@ -1,57 +1,41 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0">
 	<channel>
-		<title>Noticias ahora</title>
+		<title>TEST</title>
 		<link>https://www.europapress.es</link>
-		<description>Noticias de actualidad</description>
+		<description>1<p>Paragraph1</p>   <p>Paragraph2</p>1</description>
 		<language>es-ES</language>
 		<item>
 			<guid>1</guid>
-			<title>Justin Sun Moves 100,000,000 USDT To Accumulate BTC and TRX</title>
-			<description><![CDATA[Über den Smartbroker...]]></description>
+			<title>TEST 1</title>
+			<description>1<li> <b>Text</b></a>1</description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
 			<pubDate>Tue, 07 Jun 2022 12:29:00 +0000</pubDate>
 		</item>
                 <item>
 			<guid>2</guid>
-			<title>title</title>
-			<description><![CDATA[Über den Smartbroker...]]></description>
+			<title>TEST 2</title>
+			<description>1 <li> <b>Text</b></a>1</description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
 			<pubDate>Tue, 07 Jun 2022 01:21:00 +0000</pubDate>
 		</item>
-                <item>
-			<guid>1</guid>
-			<title>title</title>
-			<description><![CDATA[Über den Smartbroker...]]></description>
-			<category domain="tradingview:symbol">CIEA</category>
-			<link>link</link>
-			<pubDate>Tue, 07 Jun 2022 10:21:00 +0000</pubDate>
-		</item>
-                <item>
-			<guid>3</guid>
-			<title>Top 10 Cryptos Lose -50% Since January, Except TRX, Gaining +5%</title>
-			<description><![CDATA[Über den Smartbroker...]]></description>
-			<category domain="tradingview:symbol">CIEA</category>
-			<link>link</link>
-			<pubDate>Tue, 07 Jun 2022 12:27:00 +0000</pubDate>
-		</item>
-                <item>
+                    <item>
 			<guid>2</guid>
-			<title>Kusama-backed DEX Mangata X to Launch Bootstrapping on June 8</title>
-			<description><![CDATA[Über den Smartbroker...]]></description>
+			<title>TEST 3</title>
+			<description>1    <li>     <b>Text</b></a>1</description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
-			<pubDate>Tue, 07 Jun 2022 12:28:00 +0000</pubDate>
+			<pubDate>Tue, 07 Jun 2022 01:21:00 +0000</pubDate>
 		</item>
-                <item>
-			<guid>3</guid>
-			<title>title</title>
-			<description><![CDATA[Über den Smartbroker...]]></description>
+                    <item>
+			<guid>2</guid>
+			<title>TEST 4</title>
+			<description>1<p>text</p> <p>    </p> <p>text</p>1</description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
-			<pubDate>Tue, 07 Jun 2022 12:27:00 +0000</pubDate>
+			<pubDate>Tue, 07 Jun 2022 01:21:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
