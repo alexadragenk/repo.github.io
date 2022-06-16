@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>TEST</title>
+		<link>https://www.europapress.es</link>
+		<description>1<p>Paragraph1</p>   <p>Paragraph2</p>1</description>
+		<language>es-ES</language>
+		<item>
+			<guid>1</guid>
+			<title>TEST 1</title>
+			<description>1<li> <b>Text</b></a>1</description>
+			<category domain="tradingview:symbol">CIEA</category>
+			<link>link</link>
+			<pubDate>Tue, 07 Jun 2022 12:29:00 +0000</pubDate>
+		</item>
+                <item>
+			<guid>2</guid>
+			<title>TEST 2</title>
+			<description>1 <li> <b>Text</b></a>1</description>
+			<category domain="tradingview:symbol">CIEA</category>
+			<link>link</link>
+			<pubDate>Tue, 07 Jun 2022 01:21:00 +0000</pubDate>
+		</item>
+                    <item>
+			<guid>2</guid>
+			<title>TEST 3</title>
+			<description>1    <li>     <b>Text</b></a>1</description>
+			<category domain="tradingview:symbol">CIEA</category>
+			<link>link</link>
+			<pubDate>Tue, 07 Jun 2022 01:21:00 +0000</pubDate>
+		</item>
+                    <item>
+			<guid>2</guid>
+			<title>TEST 4</title>
+			<description>1<p>text</p> <p>    </p> <p>text</p>1</description>
+			<category domain="tradingview:symbol">CIEA</category>
+			<link>link</link>
+			<pubDate>Tue, 07 Jun 2022 01:21:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
