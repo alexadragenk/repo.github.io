@@ -24,7 +24,7 @@
                 <item>
 			<guid>3</guid>
 			<title>title</title>
-			<description><![CDATA[<a href="https://reuters.com:443/very-interesting-link.html"></a></p>]]</description>
+			<description><![CDATA[<a href="https://reuters.com:443/very-interesting-link.html"></a>]]</description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
 			<pubDate>Tue, 07 Jun 2022 12:27:00 +0000</pubDate>
