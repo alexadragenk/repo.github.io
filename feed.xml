@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0">
 	<channel>
-		<title>test</title>
+		<title>Noticias ahora</title>
 		<link>https://www.europapress.es</link>
 		<description>Noticias de actualidad</description>
 		<language>es-ES</language>
 		<item>
 			<guid>1</guid>
-			<title>TEST1</title>
-			<description><![CDATA[Über den Smartbroker...1<p>Paragraph1</p>   <p>Paragraph2</p>1]]></description>
+			<title>Justin Sun Moves 100,000,000 USDT To Accumulate BTC and TRX</title>
+			<description><![CDATA[Über<p>At a glance <a href="http://">Link Text</a></p>]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
 			<pubDate>Tue, 07 Jun 2022 12:29:00 +0000</pubDate>
 		</item>
                 <item>
 			<guid>2</guid>
-			<title>TEST2</title>
-			<description><![CDATA[Über den Smartbroker...1<li> <b>Text</b></a>1]]></description>
+			<title>title</title>
+			<description><![CDATA[Über<a href="https://reuters.com:443/very-interesting-link.html"></a>]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
 			<pubDate>Tue, 07 Jun 2022 01:21:00 +0000</pubDate>
 		</item>
                 <item>
 			<guid>3</guid>
-			<title>TEST3</title>
-			<description><![CDATA[Über den Smartbroker...1 <li> <b>Text</b></a>1]]></description>
+			<title>title</title>
+			<description><![CDATA[Über<p><Origin Href=\"Link\">HTTPS://WWW.COLLABORATE-TO-SCALE.COM</Origin    <a href="https://reuters.com:443/very-interesting-link.html"></a>></p>]]></description>
 			<category domain="tradingview:symbol">CIEA</category>
 			<link>link</link>
-			<pubDate>Tue, 07 Jun 2022 10:21:00 +0000</pubDate>
+			<pubDate>Tue, 07 Jun 2022 12:27:00 +0000</pubDate>
 		</item>
-  </channel>
+	</channel>
 </rss>
