@@ -6,11 +6,10 @@
 <item>
     <title>BER_TITLE</title>
 	<description>
-	    <p><a href="http://www.site.com/path/to/place/">Text</a></p>
+	    <p><a href="http://">Text</a></p>
+	    <p><a href="https://tmsnrt.rs">Text</a></p>
 	    https://withouttag.com
-	    <p><a href="https://escaped.net/s?aa=bb&amp;cc=25&amp;idx=1&amp;scene=21#wechat_redirect"></a></p>
 	    <p><a href="https://reuters.com:443/very-interesting-link.html"></a></p>
-	    <p><a href="https://ru.wikipedia.org/wiki/История_Интернета#СССР-США"></a></p>
 	</description>
     <pubDate>Tue, 21 Jun 2022 14:33:23 +0100</pubDate>
     <link>
