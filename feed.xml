@@ -1,22 +1,51 @@
 <rss version="2.0">
 <channel>
-<title>BER_TOP_TITLE</title>
-<language>en</language>
-<lastBuildDate>Tue, 21 Jun 2022 14:33:23 +0100</lastBuildDate>
+<title>Noticias en Cointelegraph.com</title>
+<atom:link href="https://es.cointelegraph.com/rss-trading-view" rel="self" type="application/rss+xml"/>
+<link>https://es.cointelegraph.com</link>
+<description>
+Cointelegraph lo cubre todo: fintech, blockchain y Bitcoin, trayéndote las últimas noticias, precios, descubrimientos y análisis del futuro del dinero.
+</description>
+<generator>es.cointelegraph.com</generator>
+<lastBuildDate>Tue, 28 Jun 2022 08:34:30 +0200</lastBuildDate>
+<language>es</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<image>
+<title>Noticias en Cointelegraph.com</title>
+<link>https://es.cointelegraph.com</link>
+<url>
+https://es.cointelegraph.com/assets/img/CT_Logo_YG_tag.png
+</url>
+<description>
+Cointelegraph lo cubre todo: fintech, blockchain y Bitcoin, trayéndote las últimas noticias, precios, descubrimientos y análisis del futuro del dinero.
+</description>
+</image>
 <item>
-    <title>BER_TITLE</title>
-	<description>
-	    <p><a href="http://"></a></p>
-	    <p><a href="https://tmsnrt.rs"></a></p>
-	    <p><a href="https://reuters.com:443/very-interesting-link.html"></a></p>
-	</description>
-    <pubDate>Tue, 21 Jun 2022 14:33:23 +0100</pubDate>
-    <link>
-        https://www.cryptoglobe.com/latest/2022/06/cardano-ledger-starts-letting-ada-investors-buy-send-and-receive-directly-on-ledger-live/
-    </link>
-    <guid>
-        https://www.cryptoglobe.com/latest/2022/06/cardano-ledger-starts-letting-ada-investors-buy-send-and-receive-directly-on-ledger-live/
-    </guid>
+<title>
+El hacker de Harmony envía los fondos robados a Tornado Cash
+</title>
+<link>
+https://es.cointelegraph.com/news/harmony-hacker-sends-stolen-funds-to-tornado-cash-mixer
+</link>
+<dc:creator>Cointelegraph Por Brian Newar</dc:creator>
+<pubDate>Tue, 28 Jun 2022 05:10:37 +0200</pubDate>
+<category>Últimas Noticias</category>
+<guid isPermaLink="false">
+https://es.cointelegraph.com/news/harmony-hacker-sends-stolen-funds-to-tornado-cash-mixer
+</guid>
+<description>
+<p>
+<strong>Los fondos de Horizon Bridge de Harmony han empezado a pasar al mezclador de 
+	<a href="http://www.site.com/path/to/place/">Text</a>
+	https://withouttag.com
+	<a href="https://escaped.net/s?aa=bb&amp;cc=25&amp;idx=1&amp;scene=21#wechat_redirect"></a>
+	<a href="https://reuters.com:443/very-interesting-link.html"></a>
+	<a href="https://ru.wikipedia.org/wiki/История_Интернета#СССР-США"></a>
+</strong>
+</p>
+</description>
+<media:content medium="image" url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDYvOGUyMjE5OTAtMzNjYi00NTlhLWI5OTItZjA3MDllNWUzNWFlLmpwZw==.jpg" width="528"/>
 </item>
 </channel>
 </rss>
